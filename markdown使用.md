@@ -12,7 +12,7 @@ MarkdownPreview
   
   Preview and build your markdown files quickly in your web browser using [Sublime Text](https://www.sublimetext.com/) 
   
-  You can use the builtin [Python Markdown][pymd] parser (offline) or use the [GitHub Markdown API][gfm-api] or [GitLab Markdown API][glfm-api] (online) for the conversion.
+  You can use the builtin [Python Markdown][pymd] parser (offline) or use the [GitHub Markdown API][gfm-api] or [GitLab Markdown API][glfm-api] (online) for the .
   
   ## Features
   
